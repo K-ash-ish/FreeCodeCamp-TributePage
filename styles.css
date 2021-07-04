@@ -1,0 +1,47 @@
+body{
+    background-color: #E6E6E6;
+    text-align: center;
+    line-height: 2;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+    
+}
+h3{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+ul{
+    text-align: left;
+    line-height: 2;
+}
+li{
+    margin-bottom: 10px;
+    font-family: 'Montserrat', sans-serif;
+}
+span{
+    font-weight:bold;
+}
+#image{
+    width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    max-width: 70%;
+}
+
+#img-div{
+    background-color: white;
+    padding-bottom: 5px;
+}
+
+#tribute-info{
+    max-width: 500px;
+    margin: 0 auto;
+}
+.words{
+    margin:0 500px 0 500px;
+    text-align: left;
+    font-style: italic;
+}
+
